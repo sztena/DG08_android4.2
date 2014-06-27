@@ -1,0 +1,1 @@
+obj-$(CONFIG_USB_RTL8152)	+= r8152.o

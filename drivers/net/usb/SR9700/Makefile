@@ -1,0 +1,1 @@
+obj-$(CONFIG_USB_SR9700) += sr9700.o
